@@ -1,12 +1,17 @@
 const quotes = [
-  "Sancta, Sancta, tractata sunt",
-  "What is moved is moved by something",
-  "Man know thyself",
-  "The law excuses no one",
-  "The best way to predict the future is to invent it. – Alan Kay",
-  "Life is what happens when you're busy making other plans. – John Lennon",
-  "Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill",
-  "Believe you can and you're halfway there. – Theodore Roosevelt",
+  "A good practice routine is key to improvement. Practice consistently, not just intensely.",
+  "The more you practice, the more you play, the better you get.",
+  "The best way to learn music is by doing it. Play, sing, and repeat.",
+  "Music is the universal language of mankind. – Henry Wadsworth Longfellow",
+  "Without music, life would be a mistake. – Friedrich Nietzsche",
+  "Sing like virgins. -Bonaventure Titus",
+  "Did the rain fall only on your roof? Bonaventure Titus",
+  "You are far too kind. -Bonaventure Titus",
+  "Let the music be hunting. -Michael Ukpeh",
+  "The only truth is music. – Jack Kerouac",
+  "Don’t practice until you get it right. Practice until you can’t get it wrong.",
+  "You can't buy happiness, but you can buy a piano, and that's kind of the same thing.",
+  "Sing like no one’s listening, dance like nobody’s watching, and play the piano like you’re Mozart."
 ];
 
 const quoteDisplay = document.getElementById('quote-display');
