@@ -15,6 +15,13 @@ body {
   margin: 20px 0;
 }
 
+.music-tips, .music-quotes {
+  padding: 15px;
+  background-color: #e1f5fe;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
 button {
   padding: 10px 20px;
   font-size: 16px;
@@ -33,6 +40,17 @@ button {
   border-radius: 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1px);
   text-align: center;
+  width: 90%;
+  max-width: 600px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
 }
 
 button:hover {
